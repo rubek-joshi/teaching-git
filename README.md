@@ -1,3 +1,3 @@
 # teaching-git
 
-Hi from test branch. Hi Test.
+Hi from test branch. Hi Test & sugar.
